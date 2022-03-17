@@ -1,0 +1,8 @@
+/*/
+!^.docs/
+!^.github/
+!config/
+/config/local/
+!config/local/.gitkeep
+config.local.mk
+.DS_Store
